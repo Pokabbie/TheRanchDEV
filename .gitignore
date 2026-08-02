@@ -2,6 +2,8 @@ crash-reports/*
 saves/*
 downloads/*
 logs/*
+cache/*
+xaero/*
 
 options.txt
 usercache.json
