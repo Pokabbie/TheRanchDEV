@@ -1,9 +1,6 @@
 Steps to Update:
-
 1. Use the list on the left to download the latest version
 2. Locate your already setup Instance in Modrinth
 3. On the Content tab, next to the Content Button click the Installation Button
 4. Click the Re-install modpack
 5. Select the previously downloaded .mrpack from step on
-
-Put whatever you want on this screen, lines will wrap, and URLs will be clickable, example: https://www.youtube.com/channel/UC151j_E5Qin4I-pl7PNo12g/ :)
