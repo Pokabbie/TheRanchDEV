@@ -3,13 +3,11 @@
     "hotfixesFormat": null,
     "versions": [
             {
-                "id": "0.1.0",
+                "id": "0.0.1",
                 "releasedAt": 1785700711,
                 "promotions": {
                     "downloads": {
-                        "modrinth": "https://modrinth.com/",
-                        "curseforge": "https://curseforge.com/",
-                        "generic": "https://example.com/"
+                        "modrinth": "https://github.com/Pokabbie/TheRanchDEV/releases/download/0.0.1/The.Ranch.DEV.0.0.1.mrpack"
                     }
                 }
             }

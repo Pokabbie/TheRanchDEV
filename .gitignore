@@ -4,6 +4,7 @@ downloads/*
 logs/*
 cache/*
 xaero/*
+export-packs/*
 
 options.txt
 usercache.json
