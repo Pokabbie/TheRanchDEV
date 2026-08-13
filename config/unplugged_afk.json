@@ -1,0 +1,46 @@
+{
+  "main": {
+    "unpluggedAfkEnabled": true,
+    "debugMode": false,
+    "reducedListDebugInfo": true,
+    "advancedAdminOptions": false
+  },
+  "commands": {
+    "unplugCommandPermissions": 0,
+    "unpluggedAdminCommandPermissions": 3,
+    "afkCommandPermissions": 0,
+    "enableUnplugCommand": true,
+    "enableAfkCommand": false
+  },
+  "unplugged": {
+    "defaultUnpluggedTimeout": 129600,
+    "maximumUnpluggedTimeout": 129600,
+    "maximumSimultaneousPlayers": 20,
+    "resetHealthUponDeath": false,
+    "unpluggedDisableDamage": false,
+    "unpluggedHidePlayer": false,
+    "unpluggedHideFromOps": false,
+    "showAfkNameplate": true,
+    "showAfkInTabList": true
+  },
+  "access": {
+    "mode": "EVERYONE",
+    "players": [],
+    "operatorsBypass": true,
+    "useFtbRanks": true
+  },
+  "automatic": {
+    "mode": "OPT_IN",
+    "defaultDurationMinutes": 60,
+    "delaySeconds": 5,
+    "players": {}
+  },
+  "messages": {
+    "broadcastMessages": true,
+    "hideUnpluggedJoin": true,
+    "displayDuration": false,
+    "displayReturnFeedback": false,
+    "durationFormat": "PRETTY",
+    "timeDateFormat": "RFC1123"
+  }
+}
