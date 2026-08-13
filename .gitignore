@@ -3,6 +3,7 @@ saves/*
 downloads/*
 logs/*
 cache/*
+.cache/*
 xaero/*
 export-packs/*
 .mixin.out/*
