@@ -7,9 +7,9 @@
   "updateCheckerId": "https://raw.githubusercontent.com/Pokabbie/TheRanchDEV/refs/heads/main/",
   "advanced": {
     "bccEnabled": false,
-    "expandButton": false,
+    "expandButton": true,
     "updateCheckerType": 2,
-    "retroWarning": false,
+    "retroWarning": true,
     "modpackMods": []
   }
 }
