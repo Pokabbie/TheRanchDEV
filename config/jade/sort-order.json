@@ -1,6 +1,9 @@
 {
   "balm:jade": null,
   "corpse:corpse": null,
+  "easy_villagers:breeder": null,
+  "easy_villagers:converter": null,
+  "easy_villagers:villager": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -60,5 +63,8 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "toms_storage:inventory_config": null,
+  "toms_storage:inventory_connector": null,
+  "toms_storage:inventory_hopper": null
 }

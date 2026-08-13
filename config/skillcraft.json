@@ -1,0 +1,28 @@
+{
+  "skillXpDisplay": {
+    "AGILITY": true,
+    "PRAYER": true,
+    "RANGED": true,
+    "FIREMAKING": true,
+    "WOODCUTTING": true,
+    "MELEE": true,
+    "HITPOINTS": true,
+    "FARMING": true,
+    "SMITHING": true,
+    "SLAYER": true,
+    "DEFENCE": true,
+    "FISHING": true,
+    "SNEAKING": true,
+    "MAGIC": true,
+    "ALCHEMY": true,
+    "CONSTRUCTION": true,
+    "ENCHANTING": true,
+    "MINING": true
+  },
+  "showSkillsHud": true,
+  "hudOverlaySize": "medium",
+  "showCapeParticles": true,
+  "showLevelUpPopups": true,
+  "showDamageNumbers": true,
+  "showHealthBars": true
+}

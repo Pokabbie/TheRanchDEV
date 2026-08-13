@@ -1,0 +1,47 @@
+{
+  "skillXpMultipliers": {
+    "AGILITY": 1.0,
+    "PRAYER": 1.0,
+    "RANGED": 1.0,
+    "FIREMAKING": 1.0,
+    "WOODCUTTING": 1.0,
+    "MELEE": 1.0,
+    "HITPOINTS": 1.0,
+    "FARMING": 1.0,
+    "SMITHING": 1.0,
+    "SLAYER": 1.0,
+    "DEFENCE": 1.0,
+    "FISHING": 1.0,
+    "SNEAKING": 1.0,
+    "MAGIC": 1.0,
+    "ALCHEMY": 1.0,
+    "CONSTRUCTION": 1.0,
+    "ENCHANTING": 1.0,
+    "MINING": 1.0
+  },
+  "globalXpMultiplier": 1.0,
+  "maxPointsPerStat": {
+    "MAX_HEALTH": 0,
+    "ARMOR_TOUGHNESS": 0,
+    "BASE_DAMAGE": 0,
+    "DAMAGE_REDUCTION": 0,
+    "ATTACK_SPEED": 0,
+    "ARMOR": 0,
+    "CRIT_CHANCE": 0,
+    "CRIT_DAMAGE": 0,
+    "MOVEMENT_SPEED": 0,
+    "HEALTH_REGEN": 0
+  },
+  "enabledCombatStats": {
+    "MAX_HEALTH": true,
+    "ARMOR_TOUGHNESS": true,
+    "BASE_DAMAGE": true,
+    "DAMAGE_REDUCTION": true,
+    "ATTACK_SPEED": true,
+    "ARMOR": true,
+    "CRIT_CHANCE": true,
+    "CRIT_DAMAGE": true,
+    "MOVEMENT_SPEED": true,
+    "HEALTH_REGEN": true
+  }
+}
