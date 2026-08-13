@@ -5,8 +5,12 @@ logs/*
 cache/*
 xaero/*
 export-packs/*
+.mixin.out/*
+.sable/*
+schematics/*
 
 options.txt
 usercache.json
 usernamecache.json
 XaeroWaypoints_*/*
+emi.json
