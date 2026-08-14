@@ -12,6 +12,7 @@ schematics/*
 generated/*
 simplebackups/*
 config/ars_nouveau/search_index/*
+emojiful/cache/*
 
 options.txt
 usercache.json
@@ -19,3 +20,4 @@ usernamecache.json
 XaeroWaypoints_*/*
 emi.json
 ponders_watched.json
+command_history.txt

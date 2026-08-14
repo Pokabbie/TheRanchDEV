@@ -1,6 +1,6 @@
 {
   "skillXpDisplay": {
-    "AGILITY": true,
+    "AGILITY": false,
     "PRAYER": true,
     "RANGED": true,
     "FIREMAKING": true,
@@ -19,10 +19,10 @@
     "ENCHANTING": true,
     "MINING": true
   },
-  "showSkillsHud": true,
+  "showSkillsHud": false,
   "hudOverlaySize": "medium",
   "showCapeParticles": true,
   "showLevelUpPopups": true,
-  "showDamageNumbers": true,
-  "showHealthBars": true
+  "showDamageNumbers": false,
+  "showHealthBars": false
 }
