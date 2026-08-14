@@ -10,6 +10,8 @@ export-packs/*
 .sable/*
 schematics/*
 generated/*
+simplebackups/*
+config/ars_nouveau/search_index/*
 
 options.txt
 usercache.json
