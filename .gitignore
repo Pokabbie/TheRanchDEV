@@ -13,6 +13,7 @@ generated/*
 simplebackups/*
 config/ars_nouveau/search_index/*
 emojiful/cache/*
+config/jei/world/*
 
 options.txt
 usercache.json
