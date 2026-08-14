@@ -1,0 +1,21 @@
+/*CraftTweaker GUI generated script
+  Not intended for manual editing
+  Changes will be overridden when exporting again*/
+
+import crafttweaker.api.ingredient.type.IIngredientEmpty;
+import crafttweaker.api.ingredient.IIngredient;
+
+<recipetype:minecraft:crafting>.removeByName("explorerscompass:explorers_compass");
+
+<recipetype:minecraft:crafting>.removeByName("explorerscompass:repair_explorers_compass");
+
+<recipetype:minecraft:crafting>.removeByName("easy_villagers:auto_trader");
+
+<recipetype:minecraft:crafting>.removeByName("easy_villagers:farmer");
+
+<recipetype:minecraft:crafting>.removeByName("easy_villagers:converter");
+
+<recipetype:minecraft:crafting>.removeByName("easy_villagers:iron_farm");
+
+<recipetype:minecraft:crafting>.removeByName("easy_villagers:trader");
+
