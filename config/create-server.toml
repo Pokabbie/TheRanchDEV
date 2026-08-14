@@ -194,11 +194,11 @@
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		movableSpawners = "NO_PICKUP"
+		movableSpawners = "MOVABLE"
 		#.
 		#Configure how Budding Amethyst can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-		amethystMovement = "NO_PICKUP"
+		amethystMovement = "MOVABLE"
 		#.
 		#Configure how Obsidian blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
@@ -361,7 +361,7 @@
 	#The maximum distance a mechanical pump can push or pull liquids on either side.
 	# Default: 16
 	# Range: > 1
-	mechanicalPumpRange = 16
+	mechanicalPumpRange = 48
 	#.
 	#[in Blocks]
 	#The maximum distance a hose pulley can draw fluid blocks from.
@@ -484,7 +484,7 @@
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		# Default: 10
 		# Range: > 1
-		schematicannonDelay = 10
+		schematicannonDelay = 4
 		#.
 		#Amount of blocks a Schematicannon can print per Gunpowder item provided.
 		# Default: 400
@@ -499,7 +499,7 @@
 	#The Maximum Distance to an active mirror for the symmetry wand to trigger.
 	# Default: 50
 	# Range: > 10
-	maxSymmetryWandRange = 50
+	maxSymmetryWandRange = 100
 	#.
 	#The Maximum Distance a Block placed by Create's placement assist will have to its interaction point.
 	# Default: 12
@@ -509,7 +509,7 @@
 	#The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 	# Default: 10
 	# Range: > 1
-	toolboxRange = 10
+	toolboxRange = 50
 	#.
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	# Default: 900
