@@ -9,6 +9,7 @@ export-packs/*
 .mixin.out/*
 .sable/*
 schematics/*
+generated/*
 
 options.txt
 usercache.json
