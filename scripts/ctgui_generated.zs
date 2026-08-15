@@ -19,3 +19,7 @@ import crafttweaker.api.ingredient.IIngredient;
 
 <recipetype:minecraft:crafting>.removeByName("easy_villagers:trader");
 
+<recipetype:minecraft:smithing>.removeByName("toms_storage:adv_wireless_terminal");
+
+<recipetype:minecraft:crafting>.removeByName("toms_storage:wireless_terminal");
+
