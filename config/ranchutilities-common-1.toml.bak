@@ -2,6 +2,8 @@
 dumpBootInfo = false
 #Debug items
 debugItems = false
+#Override the title screen menu music?
+overrideMenuMusic = true
 #Nether Roof height used when allowNetherRoof gamerule is active
 # Default: 126.0
 # Range: 4.9E-324 ~ 1.7976931348623157E308
@@ -30,7 +32,23 @@ shinyMoonRate = 0.0
 # Default: 4
 # Range: > 0
 shinyMoonCooldown = 4
-#When player count is >= this value, Distant Horizon's will be disabled on the Server
-# Default: 4
+#Minimum timer between per player Shiny spawn
+# Default: 2500
 # Range: > 0
-dhDisableThreshold = 4
+shinyMoonTimerMin = 2500
+#Minimum timer between per player Shiny spawn
+# Default: 4000
+# Range: > 0
+shinyMoonTimerMax = 4000
+#Shiny rate for Legendary Idol spawns
+# Default: 128
+# Range: > 0
+legendaryIdolShinyRate = 128
+#Radius Curry Power is applied in blocks.
+# Default: 256
+# Range: > 0
+curryPowerRadius = 256
+#Sparkling Curry Power rolls for lvl 1.
+# Default: 2
+# Range: > 1
+currySparklingBaseRolls = 2
