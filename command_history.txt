@@ -3,3 +3,4 @@
 /gamemode creative
 /gamemode survival
 /gamemode creative
+/defaultoptions saveAll

@@ -2,6 +2,6 @@
 #Allowed Values: PEACEFUL, EASY, NORMAL, HARD
 defaultDifficulty = "NORMAL"
 #Resource pack IDs to have enabled by default on the first run.
-defaultResourcePacks = []
+defaultResourcePacks = ["mod/punchy:resourcepacks/punchy", "vanilla", "fabric", "mod_resources", "file/FreshAnimations_v1.10.4.zip", "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip", "continuity:glass_pane_culling_fix", "continuity:default", "vanillabackport:freshly_animated", "file/RanchSMPMenu.zip"]
 #Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
 lockDifficulty = false
