@@ -109,7 +109,7 @@
 		printingEnchantedBookCostMultiplier = 1.0
 		#.
 		#Whether the Printer denylist prevents Enchanted Books from being copied.Setting this to false allows copying Enchanted Books without denied enchantments
-		printingEnchantedBookDenylistStopCopying = false
+		printingEnchantedBookDenylistStopCopying = true
 		#.
 		#The amount of liquid a Blaze Enchanter can hold (mB).
 		#[@cui:RequiresReload:server]
