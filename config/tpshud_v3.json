@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "anchor": "TOP_RIGHT",
+  "padding": 6,
+  "scale": 1.0,
+  "precision": 2,
+  "format": "TPS",
+  "smoothingWindow": 40,
+  "autoHideF3": true,
+  "displayMode": "COMPACT",
+  "shadow": true,
+  "background": true,
+  "textColor": 16777215,
+  "valueTextColor": 65416,
+  "thresholds": {
+    "tpsWarn": 18.0,
+    "tpsBad": 10.0,
+    "tpsGoodColor": "#00FF88",
+    "tpsWarnColor": "#FFCC00",
+    "tpsBadColor": "#FF5555",
+    "msptWarn": 60.0,
+    "msptBad": 100.0,
+    "msptGoodColor": "#00FF88",
+    "msptWarnColor": "#FFCC00",
+    "msptBadColor": "#FF5555"
+  }
+}
