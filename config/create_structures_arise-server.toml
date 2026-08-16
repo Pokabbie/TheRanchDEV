@@ -20,9 +20,9 @@
 
 	[compatibility.brass_age]
 		#When true and Brass Age is loaded, Brass Age machine blocks and block entities in Create Structures Arise structures are replaced during placement.
-		remove_brass_age_machines = false
+		remove_brass_age_machines = true
 		#When true and Brass Age is loaded, decorative Brass Age blocks in Create Structures Arise structures are replaced during placement.
-		remove_brass_age_decorations = false
+		remove_brass_age_decorations = true
 		#When true, missing or disabled Brass Age blocks are replaced with replacement_block instead of being kept when possible.
 		replace_missing_brass_age_blocks = true
 		#Block ID used when Brass Age components are removed from structures.
@@ -362,7 +362,7 @@
 
 	[structures.createminiskyvillage]
 		#Enables this structure. Set to false to prevent this structure from generating. Live reload affects newly generated chunks only.
-		enabled = true
+		enabled = false
 		#Generation weight for this structure. Cannot be negative. Set to 0 to prevent this structure from generating. Values above 1 make this structure more common. Live reload affects newly generated chunks only.
 		# Default: 1
 		# Range: > 0
