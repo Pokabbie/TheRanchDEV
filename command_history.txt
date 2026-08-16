@@ -4,3 +4,6 @@
 /gamemode survival
 /gamemode creative
 /defaultoptions saveAll
+/time set 0
+/gamemode survival
+/gamemode creative
