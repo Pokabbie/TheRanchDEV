@@ -1,7 +1,17 @@
 {
     "schemaVersion": 1,
     "hotfixesFormat": null,
+    "comment": "Grab MS from https://www.epochconverter.com/"
     "versions": [
+            {
+                "id": "0.0.1",
+                "releasedAt": 1785700711000,
+                "promotions": {
+                    "downloads": {
+                        "modrinth": "https://github.com/Pokabbie/TheRanchDEV/releases/download/0.0.1/The.Ranch.DEV.0.0.1.mrpack"
+                    }
+                }
+            },
             {
                 "id": "0.1.0",
                 "releasedAt": 1786910133000,
@@ -12,11 +22,11 @@
                 }
             },
             {
-                "id": "0.0.1",
-                "releasedAt": 1785700711000,
+                "id": "0.1.1",
+                "releasedAt": 1786910998000,
                 "promotions": {
                     "downloads": {
-                        "modrinth": "https://github.com/Pokabbie/TheRanchDEV/releases/download/0.0.1/The.Ranch.DEV.0.0.1.mrpack"
+                        "modrinth": "https://github.com/Pokabbie/TheRanchDEV/releases/download/0.1.1/The.Ranch.S5.0.1.1.mrpack"
                     }
                 }
             }
