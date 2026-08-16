@@ -12,7 +12,7 @@
     "SLAYER": true,
     "DEFENCE": true,
     "FISHING": true,
-    "SNEAKING": true,
+    "SNEAKING": false,
     "MAGIC": true,
     "ALCHEMY": true,
     "CONSTRUCTION": true,
