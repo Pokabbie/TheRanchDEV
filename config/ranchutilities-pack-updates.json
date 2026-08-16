@@ -1,0 +1,25 @@
+{
+    "SourceURL":"",
+    "CurrentVersion":"0.1.2",
+    "DownloadPattern": "https://github.com/Pokabbie/TheRanchDEV/releases/download/%VERSION%/The.Ranch.S5.%VERSION%.mrpack"
+    "Updates":
+    [
+        {
+            "Version": "0.1.2",
+            "ChangeLog": "Swapped update version mod"
+        },
+        {
+            "Version": "0.1.1",
+            "ChangeLog": "Small fix"
+        },
+        {
+            "Version": "0.1.0",
+            "ChangeLog": "Initial pack drop"
+        },
+        {
+            "Version": "0.0.1",
+            "Download": "https://github.com/Pokabbie/TheRanchDEV/releases/download/0.0.1/The.Ranch.DEV.0.0.1.mrpack",
+            "ChangeLog": "Initial version"
+        }
+    ]
+}
