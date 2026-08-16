@@ -14,6 +14,7 @@ simplebackups/*
 config/ars_nouveau/search_index/*
 emojiful/cache/*
 config/jei/world/*
+.builds/*
 
 options.txt
 usercache.json
