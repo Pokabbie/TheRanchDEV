@@ -1,4 +1,4 @@
-Steps to Update:
+# Steps to Update:
 1. Use the list on the left to download the latest version
 2. Locate your already setup Instance in Modrinth
 3. On the Content tab, next to the Content Button click the Installation Button

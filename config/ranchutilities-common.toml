@@ -1,0 +1,36 @@
+#Whether to dump data such as memory and mod usage on boot
+dumpBootInfo = false
+#Debug items
+debugItems = false
+#Nether Roof height used when allowNetherRoof gamerule is active
+# Default: 126.0
+# Range: 4.9E-324 ~ 1.7976931348623157E308
+netherRoofHeight = 126.0
+#1/N chance for blood moon to occur (recommended: 30)
+# Default: 0.0
+# Range: 0.0 ~ 1.7976931348623157E308
+bloodMoonRate = 0.0
+#Event cooldown, in days, after a blood moon
+# Default: 4
+# Range: > 0
+bloodMoonCooldown = 4
+#Multiplyer to Mob's view distance
+# Default: 2.0
+# Range: 0.0 ~ 1.7976931348623157E308
+bloodMoonViewDistanceScale = 2.0
+#Multiplyer to Mob's damage
+# Default: 2.0
+# Range: 0.0 ~ 1.7976931348623157E308
+bloodMoonDamageScale = 2.0
+#1/N chance for shiny moon to occur (recommended: 100)
+# Default: 0.0
+# Range: 0.0 ~ 1.7976931348623157E308
+shinyMoonRate = 0.0
+#Event cooldown, in days, after a shiny moon
+# Default: 4
+# Range: > 0
+shinyMoonCooldown = 4
+#When player count is >= this value, Distant Horizon's will be disabled on the Server
+# Default: 4
+# Range: > 0
+dhDisableThreshold = 4

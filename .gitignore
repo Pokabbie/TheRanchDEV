@@ -3,10 +3,23 @@ saves/*
 downloads/*
 logs/*
 cache/*
+.cache/*
 xaero/*
 export-packs/*
+.mixin.out/*
+.sable/*
+schematics/*
+generated/*
+simplebackups/*
+config/ars_nouveau/search_index/*
+emojiful/cache/*
+config/jei/world/*
+.builds/*
 
 options.txt
 usercache.json
 usernamecache.json
 XaeroWaypoints_*/*
+emi.json
+ponders_watched.json
+command_history.txt

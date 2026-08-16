@@ -1,0 +1,227 @@
+{
+    data: [],
+    palette: [],
+    changes: [
+        {
+            exported: 1b,
+            originalId: "explorerscompass:explorers_compass",
+            recipe: {
+                category: "misc",
+                group: "tools",
+                key: {
+                    c: {
+                        item: "minecraft:cobweb"
+                    },
+                    g: {
+                        item: "minecraft:compass"
+                    },
+                    p: {
+                        item: "minecraft:cracked_stone_bricks"
+                    }
+                },
+                pattern: [
+                    "cpc",
+                    "pgp",
+                    "cpc"
+                ],
+                result: {
+                    count: 1,
+                    id: "explorerscompass:explorerscompass"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "explorerscompass:repair_explorers_compass",
+            recipe: {
+                category: "misc",
+                group: "tools",
+                ingredients: [
+                    {
+                        item: "explorerscompass:explorerscompass"
+                    },
+                    {
+                        item: "minecraft:compass"
+                    }
+                ],
+                result: {
+                    count: 1,
+                    id: "explorerscompass:explorerscompass"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shapeless",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "easy_villagers:auto_trader",
+            recipe: {
+                category: "misc",
+                key: {
+                    g: {
+                        tag: "c:glass_panes/colorless"
+                    },
+                    i: {
+                        tag: "c:ingots/iron"
+                    },
+                    n: {
+                        tag: "c:ingots/netherite"
+                    },
+                    r: {
+                        tag: "c:dusts/redstone"
+                    }
+                },
+                pattern: [
+                    "ggg",
+                    "grg",
+                    "ini"
+                ],
+                result: {
+                    components: {},
+                    count: 1,
+                    id: "easy_villagers:auto_trader"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "easy_villagers:farmer",
+            recipe: {
+                category: "misc",
+                key: {
+                    d: {
+                        item: "minecraft:dirt"
+                    },
+                    g: {
+                        tag: "c:glass_panes/colorless"
+                    },
+                    i: {
+                        tag: "c:ingots/iron"
+                    },
+                    w: {
+                        item: "minecraft:water_bucket"
+                    }
+                },
+                pattern: [
+                    "ggg",
+                    "gwg",
+                    "idi"
+                ],
+                result: {
+                    components: {},
+                    count: 1,
+                    id: "easy_villagers:farmer"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "easy_villagers:converter",
+            recipe: {
+                category: "misc",
+                key: {
+                    g: {
+                        tag: "c:glass_panes/colorless"
+                    },
+                    i: {
+                        tag: "c:ingots/iron"
+                    },
+                    m: {
+                        item: "minecraft:mossy_cobblestone"
+                    },
+                    r: {
+                        item: "minecraft:rotten_flesh"
+                    }
+                },
+                pattern: [
+                    "ggg",
+                    "grg",
+                    "imi"
+                ],
+                result: {
+                    components: {},
+                    count: 1,
+                    id: "easy_villagers:converter"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "easy_villagers:iron_farm",
+            recipe: {
+                category: "misc",
+                key: {
+                    g: {
+                        tag: "c:glass_panes/colorless"
+                    },
+                    i: {
+                        tag: "c:ingots/iron"
+                    },
+                    l: {
+                        item: "minecraft:lava_bucket"
+                    },
+                    s: {
+                        item: "minecraft:stone"
+                    }
+                },
+                pattern: [
+                    "ggg",
+                    "glg",
+                    "isi"
+                ],
+                result: {
+                    components: {},
+                    count: 1,
+                    id: "easy_villagers:iron_farm"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "easy_villagers:trader",
+            recipe: {
+                category: "misc",
+                key: {
+                    g: {
+                        tag: "c:glass_panes/colorless"
+                    },
+                    i: {
+                        tag: "c:ingots/iron"
+                    },
+                    r: {
+                        tag: "c:dusts/redstone"
+                    }
+                },
+                pattern: [
+                    "ggg",
+                    "grg",
+                    "iii"
+                ],
+                result: {
+                    components: {},
+                    count: 1,
+                    id: "easy_villagers:trader"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        }
+    ]
+}

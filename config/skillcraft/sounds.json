@@ -1,0 +1,7 @@
+{
+  "customLevelUpSoundFile": "sounds/levelup.ogg",
+  "useRelativePath": true,
+  "fallbackToBuiltInSounds": true,
+  "levelUpSoundVolume": 0.8,
+  "levelUpSoundPitch": 1.0
+}
