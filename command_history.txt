@@ -11,3 +11,4 @@
 /unplug status
 /unplug 10 test
 /time set 0
+/defaultoptions saveAll
