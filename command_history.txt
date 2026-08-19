@@ -7,3 +7,6 @@
 /time set 0
 /gamemode survival
 /gamemode creative
+/unplug
+/unplug status
+/unplug 10 test
