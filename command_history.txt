@@ -10,3 +10,4 @@
 /unplug
 /unplug status
 /unplug 10 test
+/time set 0

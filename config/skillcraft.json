@@ -1,6 +1,6 @@
 {
   "skillXpDisplay": {
-    "AGILITY": false,
+    "AGILITY": true,
     "PRAYER": true,
     "RANGED": true,
     "FIREMAKING": true,
@@ -12,7 +12,7 @@
     "SLAYER": true,
     "DEFENCE": true,
     "FISHING": true,
-    "SNEAKING": false,
+    "SNEAKING": true,
     "MAGIC": true,
     "ALCHEMY": true,
     "CONSTRUCTION": true,
