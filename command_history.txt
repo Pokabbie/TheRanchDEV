@@ -15,3 +15,10 @@
 /time set 0
 /ct hand
 /defaultoptions saveAll
+/time set 0
+/locate structure minecraft:village_plains
+/tp @s -256 ~ 192#
+/tp @s -256 ~ 192
+/tick rate 200
+/tick rate 2
+/tick rate 20
