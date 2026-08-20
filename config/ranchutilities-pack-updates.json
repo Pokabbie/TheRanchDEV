@@ -1,9 +1,13 @@
 {
     "SourceURL":"https://raw.githubusercontent.com/Pokabbie/TheRanchDEV/season_5/config/ranchutilities-pack-updates.json",
-    "CurrentVersion":"0.1.4",
+    "CurrentVersion":"0.1.5",
     "DownloadPattern": "https://github.com/Pokabbie/TheRanchDEV/releases/download/%VERSION%/The.Ranch.S5.%VERSION%.mrpack",
     "Updates":
     [
+        {
+            "Version": "0.1.5",
+            "ChangeLog": "Server fixes + mod replacements"
+        },
         {
             "Version": "0.1.4",
             "ChangeLog": "Custom Rat jar to fix multiple issues"
