@@ -14,3 +14,4 @@
 /defaultoptions saveAll
 /time set 0
 /ct hand
+/defaultoptions saveAll
