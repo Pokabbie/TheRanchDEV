@@ -25,3 +25,4 @@
 /give Pokabbie rats:chunky_cheese_token
 /give Pokabbie rats:ratlantis_portal
 /defaultoptions saveAll
+/time set 0

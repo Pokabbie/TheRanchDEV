@@ -15,7 +15,7 @@ hat_blacklist = []
 # or a namespace on its own to exclude every entity from that mod,
 # e.g. "minecraft" blocks all vanilla mobs. Example:
 # ["minecraft:creeper", "minecraft:zombie"].
-disabled_entities = []
+disabled_entities = [ "rats:rat", ]
 
 # If true, hats stay visible even when the wearing entity is invisible
 # (invisibility potion, spectator, etc). Default: false.
