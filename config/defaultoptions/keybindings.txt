@@ -124,7 +124,7 @@ key_key.ars_nouveau.selection_hud:key.keyboard.v:
 key_key.ars_nouveau.next_slot:key.keyboard.x:
 key_key.ars_nouveau.previous_slot:key.keyboard.z:
 key_key.ars_nouveau.head_curio_hotkey:key.keyboard.unknown:
-key_key.ars_nouveau.open_documentation:key.keyboard.left.control:
+key_key.ars_nouveau.open_documentation:key.keyboard.left.alt:
 key_key.ars_nouveau.qc1:key.keyboard.unknown:
 key_key.ars_nouveau.qc2:key.keyboard.unknown:
 key_key.ars_nouveau.qc3:key.keyboard.unknown:

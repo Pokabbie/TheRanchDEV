@@ -24,3 +24,4 @@
 /tick rate 20
 /give Pokabbie rats:chunky_cheese_token
 /give Pokabbie rats:ratlantis_portal
+/defaultoptions saveAll
