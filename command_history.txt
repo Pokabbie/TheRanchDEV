@@ -26,3 +26,4 @@
 /give Pokabbie rats:ratlantis_portal
 /defaultoptions saveAll
 /time set 0
+/tp @e[type=rats:rat] Pokabbie
