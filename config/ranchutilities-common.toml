@@ -34,3 +34,7 @@ shinyMoonCooldown = 4
 # Default: 4
 # Range: > 0
 dhDisableThreshold = 4
+#How often the Server will kick off auto-restarts
+# Default: 12
+# Range: > -1
+autoRestartTime = 12
