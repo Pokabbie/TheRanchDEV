@@ -12,17 +12,17 @@
                     c: {
                         item: "minecraft:cobweb"
                     },
-                    g: {
-                        item: "minecraft:compass"
-                    },
-                    p: {
+                    e: {
                         item: "minecraft:cracked_stone_bricks"
+                    },
+                    m: {
+                        item: "minecraft:compass"
                     }
                 },
                 pattern: [
-                    "cpc",
-                    "pgp",
-                    "cpc"
+                    "cec",
+                    "eme",
+                    "cec"
                 ],
                 result: {
                     count: 1,
@@ -217,6 +217,67 @@
                     components: {},
                     count: 1,
                     id: "easy_villagers:trader"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "toms_storage:adv_wireless_terminal",
+            recipe: {
+                addition: {
+                    item: "minecraft:netherite_ingot"
+                },
+                base: {
+                    item: "toms_storage:wireless_terminal"
+                },
+                result: {
+                    count: 1,
+                    id: "toms_storage:adv_wireless_terminal"
+                },
+                template: {
+                    item: "minecraft:netherite_upgrade_smithing_template"
+                }
+            },
+            recipeType: "minecraft:smithing",
+            serializer: "minecraft:smithing_transform",
+            type: "REMOVED"
+        },
+        {
+            exported: 1b,
+            originalId: "toms_storage:wireless_terminal",
+            recipe: {
+                category: "misc",
+                key: {
+                    c: {
+                        item: "minecraft:comparator"
+                    },
+                    e: {
+                        tag: "c:ender_pearls"
+                    },
+                    g: {
+                        tag: "c:dusts/glowstone"
+                    },
+                    k: {
+                        tag: "c:glass_blocks/colorless"
+                    },
+                    o: {
+                        tag: "minecraft:planks"
+                    },
+                    s: {
+                        item: "minecraft:spyglass"
+                    }
+                },
+                pattern: [
+                    "oco",
+                    "sgk",
+                    "oeo"
+                ],
+                result: {
+                    count: 1,
+                    id: "toms_storage:wireless_terminal"
                 }
             },
             recipeType: "minecraft:crafting",
