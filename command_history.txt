@@ -1,14 +1,3 @@
-/tick query
-/tick freeze
-/tick unfreeze
-/tp @e[type=rats:rat] Pokabbie
-/gamerule randomTickSpeed 100
-/gamerule randomTickSpeed 1000
-/gamerule randomTickSpeed 10
-/gamerule randomTickSpeed 100
-/gamerule randomTickSpeed 1000
-/gamerule randomTickSpeed 10000
-/gamerule randomTickSpeed 3
 /kill @e[type=rats:rat]
 /gamerule randomTickSpeed 300
 /gamerule randomTickSpeed 3000
@@ -48,3 +37,14 @@
 /season set late_winter
 /season set early_spring
 /season set mid_spring
+/season get
+/season set early_spring
+/season set mid_w
+/season set mid_winter
+/gamerule randomTickSpeed
+/gamerule randomTickSpeed 300
+/gamerule randomTickSpeed 3
+/gamerule randomTickSpeed 300
+/gamerule randomTickSpeed 3
+/season set mid_spring
+/gamerule randomTickSpeed 300
