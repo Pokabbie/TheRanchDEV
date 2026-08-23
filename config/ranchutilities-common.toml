@@ -33,7 +33,7 @@ shinyMoonCooldown = 4
 #When player count is >= this value, Distant Horizon's will be disabled on the Server
 # Default: 4
 # Range: > 0
-dhDisableThreshold = 4
+dhDisableThreshold = 100
 #How often the Server will kick off auto-restarts
 # Default: 12
 # Range: > -1

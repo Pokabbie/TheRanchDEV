@@ -1,12 +1,3 @@
-/tick rate 20
-/give Pokabbie rats:chunky_cheese_token
-/give Pokabbie rats:ratlantis_portal
-/defaultoptions saveAll
-/time set 0
-/tp @e[type=rats:rat] Pokabbie
-/tick rate 200
-/tick rate 20
-/tick
 /tick query
 /tick freeze
 /tick unfreeze
@@ -48,3 +39,12 @@
 /gamemode creative
 /deop Pokabbie
 /weather clear
+/gamemode creative
+/defaultoptions saveAll
+/season get
+/season set early_winter
+/weather rain
+/season set mid_winter
+/season set late_winter
+/season set early_spring
+/season set mid_spring
