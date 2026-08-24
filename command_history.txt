@@ -1,9 +1,3 @@
-/tp @e[type=rats:rat] Pokabbie
-/kil
-/kill
-/time set night
-/time set midnight
-/tp @e[type=rats:rat] Pokabbie
 /gamerule randomTickSpeed
 /gamerule randomTickSpeed 10000
 /gamerule randomTickSpeed 100000
@@ -48,3 +42,9 @@
 /unplug 10000
 /unplug 10000 Testing
 /weather clear
+/ranch skillcraft setlvl 99
+/ranch skillcraft setlvl 99 Pokabbie
+/ranch skillcraft setlvl 200 Pokabbie
+/ranch skillcraft setlvl 2000 Pokabbie
+/ranch skillcraft setlvl 200000 Pokabbie
+/ranch skillcraft setlvl 1 Pokabbie
