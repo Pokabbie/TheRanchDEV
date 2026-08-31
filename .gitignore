@@ -17,6 +17,7 @@ config/jei/world/*
 .builds/*
 Distant_Horizons_server_data/*
 screenshots/*
+debug/*
 
 options.txt
 usercache.json

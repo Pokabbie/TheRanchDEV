@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "anchor": "TOP_RIGHT",
+  "anchor": "BOTTOM_LEFT",
   "padding": 6,
   "scale": 1.0,
   "precision": 2,
