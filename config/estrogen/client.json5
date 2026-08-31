@@ -3,7 +3,7 @@
     Music: {
         // Enable Estrogen Ambient Music
         // Default: true
-        enabled: true,
+        enabled: false,
         // Minimum Delay between songs in ticks
         // Range: 0 ~ 100000
         // Default: 0
