@@ -9,20 +9,20 @@
                 category: "misc",
                 group: "tools",
                 key: {
-                    a: {
-                        item: "minecraft:compass"
-                    },
                     c: {
                         item: "minecraft:cobweb"
                     },
-                    l: {
+                    d: {
                         item: "minecraft:cracked_stone_bricks"
+                    },
+                    y: {
+                        item: "minecraft:compass"
                     }
                 },
                 pattern: [
-                    "clc",
-                    "lal",
-                    "clc"
+                    "cdc",
+                    "dyd",
+                    "cdc"
                 ],
                 result: {
                     count: 1,
@@ -258,7 +258,7 @@
                     o: {
                         tag: "minecraft:planks"
                     },
-                    q: {
+                    r: {
                         tag: "c:glass_blocks/colorless"
                     },
                     s: {
@@ -267,7 +267,7 @@
                 },
                 pattern: [
                     "oco",
-                    "sgq",
+                    "sgr",
                     "oeo"
                 ],
                 result: {
@@ -280,27 +280,27 @@
             type: "REMOVED"
         },
         {
-            exported: 0b,
+            exported: 1b,
             id: "ctgui/new/wings_of_fire/tempered_lantern_recipe_0",
             oldSerializer: "minecraft:crafting_shaped",
             originalId: "wings_of_fire:tempered_lantern_recipe",
             originalRecipe: {
                 category: "misc",
                 key: {
-                    a: {
-                        item: "minecraft:iron_ingot"
-                    },
                     b: {
                         item: "minecraft:blaze_powder"
                     },
-                    c: {
+                    i: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    l: {
                         item: "minecraft:lantern"
                     }
                 },
                 pattern: [
-                    "aaa",
-                    "bcb",
-                    "aaa"
+                    "iii",
+                    "blb",
+                    "iii"
                 ],
                 result: {
                     count: 1,
@@ -313,16 +313,16 @@
                     b: {
                         item: "minecraft:blaze_powder"
                     },
-                    g: {
-                        item: "minecraft:nether_star"
-                    },
                     n: {
                         item: "minecraft:netherite_ingot"
+                    },
+                    w: {
+                        item: "minecraft:nether_star"
                     }
                 },
                 pattern: [
                     " n ",
-                    "bgb",
+                    "bwb",
                     " n "
                 ],
                 result: {

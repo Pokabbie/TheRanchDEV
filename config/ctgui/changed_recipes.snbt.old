@@ -9,20 +9,20 @@
                 category: "misc",
                 group: "tools",
                 key: {
+                    a: {
+                        item: "minecraft:compass"
+                    },
                     c: {
                         item: "minecraft:cobweb"
                     },
-                    e: {
+                    l: {
                         item: "minecraft:cracked_stone_bricks"
-                    },
-                    m: {
-                        item: "minecraft:compass"
                     }
                 },
                 pattern: [
-                    "cec",
-                    "eme",
-                    "cec"
+                    "clc",
+                    "lal",
+                    "clc"
                 ],
                 result: {
                     count: 1,
@@ -81,7 +81,6 @@
                     "ini"
                 ],
                 result: {
-                    components: {},
                     count: 1,
                     id: "easy_villagers:auto_trader"
                 }
@@ -115,7 +114,6 @@
                     "idi"
                 ],
                 result: {
-                    components: {},
                     count: 1,
                     id: "easy_villagers:farmer"
                 }
@@ -149,7 +147,6 @@
                     "imi"
                 ],
                 result: {
-                    components: {},
                     count: 1,
                     id: "easy_villagers:converter"
                 }
@@ -183,7 +180,6 @@
                     "isi"
                 ],
                 result: {
-                    components: {},
                     count: 1,
                     id: "easy_villagers:iron_farm"
                 }
@@ -214,7 +210,6 @@
                     "iii"
                 ],
                 result: {
-                    components: {},
                     count: 1,
                     id: "easy_villagers:trader"
                 }
@@ -260,11 +255,11 @@
                     g: {
                         tag: "c:dusts/glowstone"
                     },
-                    k: {
-                        tag: "c:glass_blocks/colorless"
-                    },
                     o: {
                         tag: "minecraft:planks"
+                    },
+                    q: {
+                        tag: "c:glass_blocks/colorless"
                     },
                     s: {
                         item: "minecraft:spyglass"
@@ -272,7 +267,7 @@
                 },
                 pattern: [
                     "oco",
-                    "sgk",
+                    "sgq",
                     "oeo"
                 ],
                 result: {
@@ -283,6 +278,61 @@
             recipeType: "minecraft:crafting",
             serializer: "minecraft:crafting_shaped",
             type: "REMOVED"
+        },
+        {
+            exported: 0b,
+            id: "ctgui/new/wings_of_fire/tempered_lantern_recipe_0",
+            oldSerializer: "minecraft:crafting_shaped",
+            originalId: "wings_of_fire:tempered_lantern_recipe",
+            originalRecipe: {
+                category: "misc",
+                key: {
+                    a: {
+                        item: "minecraft:iron_ingot"
+                    },
+                    b: {
+                        item: "minecraft:blaze_powder"
+                    },
+                    c: {
+                        item: "minecraft:lantern"
+                    }
+                },
+                pattern: [
+                    "aaa",
+                    "bcb",
+                    "aaa"
+                ],
+                result: {
+                    count: 1,
+                    id: "wings_of_fire:tempered_lantern"
+                }
+            },
+            recipe: {
+                category: "misc",
+                key: {
+                    b: {
+                        item: "minecraft:blaze_powder"
+                    },
+                    g: {
+                        item: "minecraft:nether_star"
+                    },
+                    n: {
+                        item: "minecraft:netherite_ingot"
+                    }
+                },
+                pattern: [
+                    " n ",
+                    "bgb",
+                    " n "
+                ],
+                result: {
+                    count: 1,
+                    id: "wings_of_fire:tempered_lantern"
+                }
+            },
+            recipeType: "minecraft:crafting",
+            serializer: "minecraft:crafting_shaped",
+            type: "CHANGED"
         }
     ]
 }

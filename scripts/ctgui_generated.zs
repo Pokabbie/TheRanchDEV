@@ -23,3 +23,9 @@ import crafttweaker.api.ingredient.IIngredient;
 
 <recipetype:minecraft:crafting>.removeByName("toms_storage:wireless_terminal");
 
+<recipetype:minecraft:crafting>.removeByName("wings_of_fire:tempered_lantern_recipe");
+craftingTable.addShaped("ctgui/new/wings_of_fire/tempered_lantern_recipe_0", <item:wings_of_fire:tempered_lantern>, [
+    [IIngredientEmpty.getInstance(), <item:minecraft:netherite_ingot>, IIngredientEmpty.getInstance()],
+    [<item:minecraft:blaze_powder>, <item:minecraft:nether_star>, <item:minecraft:blaze_powder>],
+    [IIngredientEmpty.getInstance(), <item:minecraft:netherite_ingot>, IIngredientEmpty.getInstance()]]);
+

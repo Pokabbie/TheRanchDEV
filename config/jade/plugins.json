@@ -52,12 +52,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -75,16 +69,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
-  },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -96,6 +80,30 @@
     "block_properties": false,
     "mod_name": true
   },
+  "balm": {
+    "jade": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "twilightforest": {
+    "drying_rack": true,
+    "chiseled_bookshelf_spawner": true,
+    "quest_ram_wool": true
+  },
   "rats": {
     "rat_house": true
   },
@@ -105,8 +113,5 @@
   "item_descriptions": {
     "block_descriptions": true,
     "entity_descriptions": true
-  },
-  "balm": {
-    "jade": true
   }
 }

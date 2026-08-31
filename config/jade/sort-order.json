@@ -83,5 +83,8 @@
   "sablejade:physics_tooltip": null,
   "toms_storage:inventory_config": null,
   "toms_storage:inventory_connector": null,
-  "toms_storage:inventory_hopper": null
+  "toms_storage:inventory_hopper": null,
+  "twilightforest:chiseled_bookshelf_spawner": null,
+  "twilightforest:drying_rack": null,
+  "twilightforest:quest_ram_wool": null
 }
