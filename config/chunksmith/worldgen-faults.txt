@@ -1,5 +1,5 @@
 Chunksmith - Worldgen Fault Report
-Generated: Mon, 31 Aug 2026 12:29:28 +0100
+Generated: Tue, 1 Sep 2026 21:48:55 +0100
 Chunksmith generation task active: no
 Total faults this session: 1
 
@@ -7,11 +7,8 @@ These are vanilla worldgen errors Chunksmith caught and kept out of the server l
 Each is attributed to the structure/datapack being generated - report it to that mod's author.
 ====================================================================
 
-mod/datapack: tf_dnv
+mod/datapack: <unknown> (no structure context)
   total faults: 1
   error types:
     - block-attached entity: anchor more than 16 blocks from the entity x1
-  structures involved:
-    - tf_dnv:twilight_village x1
-  sample broken chunks (up to 10): [-87,-64]
 
