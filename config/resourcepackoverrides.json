@@ -1,9 +1,8 @@
 {
   "schema_version": "2"
   "default_packs": [
-    "file/RanchSMPMenu.zip"
     "file/FreshAnimations_v1.10.4.zip",
-    "file/FA+Player-v1.1.zip",
+    "file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
     "file/mod-descriptions-v12.0.zip",
     "vanillabackport:freshly_animated",
     "continuity:default",
