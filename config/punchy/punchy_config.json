@@ -35,8 +35,26 @@
   "enableBlurGlowAtDark": false,
   "firstPersonModelHideEnabled": true,
   "firstPersonModelHidePitch": 60.0,
-  "itemBlacklist": [],
-  "blacklistApplyDualHanded": {},
+  "itemBlacklist": [
+    "simulated:plunger_launcher",
+    "create:potato_cannon",
+    "create:extendo_grip",
+    "create:handheld_worldshaper",
+    "create_aeronautics_toolgun:creative_magnetic_gun",
+    "create_aeronautics_toolgun:magnetic_gun",
+    "create_aeronautics_toolgun:survival_structure_tool",
+    "create_aeronautics_toolgun:structure_tool"
+  ],
+  "blacklistApplyDualHanded": {
+    "simulated:plunger_launcher": false,
+    "create:potato_cannon": false,
+    "create:extendo_grip": false,
+    "create:handheld_worldshaper": false,
+    "create_aeronautics_toolgun:creative_magnetic_gun": false,
+    "create_aeronautics_toolgun:magnetic_gun": false,
+    "create_aeronautics_toolgun:survival_structure_tool": false,
+    "create_aeronautics_toolgun:structure_tool": false
+  },
   "animationPackSelections": {},
   "animationPackTypeSelections": {},
   "mixSpecificForceOverride": {}
