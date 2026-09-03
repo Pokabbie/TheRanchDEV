@@ -19,6 +19,8 @@ Distant_Horizons_server_data/*
 screenshots/*
 debug/*
 
+config/*.bak
+
 options.txt
 usercache.json
 usernamecache.json
