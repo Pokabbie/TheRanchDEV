@@ -1,5 +1,3 @@
-/defaultoptions saveAll
-/season get
 /season set early_winter
 /weather rain
 /season set mid_winter
@@ -48,3 +46,5 @@
 /sable forceload query
 /sable engage_gizmo
 /sable info @e
+/ct scripts
+/reload
