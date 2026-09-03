@@ -1,10 +1,3 @@
-/weather rain
-/season set mid_winter
-/season set late_winter
-/season set early_spring
-/season set mid_spring
-/season get
-/season set early_spring
 /season set mid_w
 /season set mid_winter
 /gamerule randomTickSpeed
@@ -48,3 +41,10 @@
 /ct scripts
 /reload
 /defaultoptions saveAll
+/sablecleanup
+/sable paused
+/sablecleanup
+/sable paused
+/sablecleanup
+/mobgriefing minecraft:creeper false
+/mobgriefing minecraft:enderman false
