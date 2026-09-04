@@ -5,10 +5,6 @@
 import crafttweaker.api.ingredient.type.IIngredientEmpty;
 import crafttweaker.api.ingredient.IIngredient;
 
-<recipetype:minecraft:crafting>.removeByName("explorerscompass:explorers_compass");
-
-<recipetype:minecraft:crafting>.removeByName("explorerscompass:repair_explorers_compass");
-
 <recipetype:minecraft:crafting>.removeByName("easy_villagers:auto_trader");
 
 <recipetype:minecraft:crafting>.removeByName("easy_villagers:farmer");
