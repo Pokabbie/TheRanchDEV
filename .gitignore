@@ -18,6 +18,7 @@ config/jei/world/*
 Distant_Horizons_server_data/*
 screenshots/*
 debug/*
+ESM/*
 
 config/*.bak
 
