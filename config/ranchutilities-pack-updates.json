@@ -1,9 +1,13 @@
 {
     "SourceURL":"https://raw.githubusercontent.com/Pokabbie/TheRanchDEV/season_5/config/ranchutilities-pack-updates.json",
-    "CurrentVersion":"0.1.8",
+    "CurrentVersion":"0.1.9",
     "DownloadPattern": "https://github.com/Pokabbie/TheRanchDEV/releases/download/%VERSION%/The.Ranch.S5.%VERSION%.mrpack",
     "Updates":
     [
+        {
+            "Version": "0.1.9",
+            "ChangeLog": "Too many changes to list"
+        },
         {
             "Version": "0.1.8",
             "ChangeLog": "Seasons + DH optimisation"
