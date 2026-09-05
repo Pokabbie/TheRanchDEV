@@ -1076,3 +1076,6 @@
 		#immersive_paintings:glow_graffiti mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"immersive_paintings:glow_graffiti" = "DEFAULT"
+		#ranchutilities:afk_player mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"ranchutilities:afk_player" = "DEFAULT"
