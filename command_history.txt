@@ -1,5 +1,3 @@
-/gamerule randomTickSpeed 300
-/gamerule randomTickSpeed 3
 /season set mid_spring
 /gamerule randomTickSpeed 300
 /unplug auto
@@ -48,3 +46,5 @@
 /reload
 /defaultoptions saveKeys
 /give Pokabbie immersive_gateways:gateway
+/time set night
+/ct hand
