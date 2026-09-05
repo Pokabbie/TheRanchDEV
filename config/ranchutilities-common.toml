@@ -39,4 +39,4 @@ dhDisableThreshold = 100
 # Range: > -1
 autoRestartTime = 12
 #Mods which will only be enabled in the HQ preset.
-presetModListHQ = ["DistantHorizons-", "coolrain-", "iris-neoforge-", "iris-flywheel-compat-", "particlerain-", "wakes-"]
+presetModListHQ = ["DistantHorizons-", "coolrain-", "iris-neoforge-", "iris-flywheel-compat-", "particlerain-", "wakes-", "3d-armor-", "skinlayers3d-", "modelfix-", ]
