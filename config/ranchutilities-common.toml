@@ -38,3 +38,5 @@ dhDisableThreshold = 100
 # Default: 12
 # Range: > -1
 autoRestartTime = 12
+#Mods which will only be enabled in the HQ preset.
+presetModListHQ = []
