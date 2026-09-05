@@ -1,7 +1,3 @@
-/gamerule randomTickSpeed 300
-/unplug auto
-/unplug 1000
-/unplug 10000
 /unplug 10000 Testing
 /weather clear
 /ranch skillcraft setlvl 99
@@ -48,3 +44,7 @@
 /time set night
 /ct hand
 /time set 0
+/gamerule randomTickSpeed
+/gamerule randomTickSpeed3
+/gamerule randomTickSpeed 3
+/unplug
