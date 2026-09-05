@@ -1,4 +1,4 @@
 version:3955
 renderDistance:12
 simulationDistance:8
-resourcePacks:["vanilla","mod/punchy:resourcepacks/punchy","fabric","mod_resources","continuity:glass_pane_culling_fix","continuity:default","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FreshAnimations_v1.10.4.zip","file/mod-descriptions-v12.0.zip","vanillabackport:freshly_animated"]
+resourcePacks:["vanilla","mod/punchy:resourcepacks/punchy","fabric","mod_resources","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FreshAnimations_v1.10.4.zip","file/mod-descriptions-v12.0.zip","vanillabackport:freshly_animated","testosterone_programmer_art","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"]
