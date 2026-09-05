@@ -1,5 +1,3 @@
-/sable name get
-/sable name get @e
 /sable name get @l
 /sable debug
 /sable teleport @e ~ ~ ~
@@ -47,4 +45,6 @@
 /forceload query
 /afkbot add Pokabbie
 /forceload query
+/afkfarm
+/afkbot add Pokabbie
 /afkfarm
