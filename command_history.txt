@@ -1,4 +1,3 @@
-/sable forceload query
 /sable engage_gizmo
 /sable info @e
 /ct scripts
@@ -48,3 +47,4 @@
 /defaultoptions saveAll
 /afkfarm
 /afkbot list
+/afkfarm
