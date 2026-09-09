@@ -36,6 +36,7 @@
   "firstPersonModelHideEnabled": true,
   "firstPersonModelHidePitch": 60.0,
   "itemBlacklist": [
+    "create:linked_controller",
     "simulated:plunger_launcher",
     "create:potato_cannon",
     "create:extendo_grip",
@@ -46,6 +47,7 @@
     "create_aeronautics_toolgun:structure_tool"
   ],
   "blacklistApplyDualHanded": {
+    "create:linked_controller": false,
     "simulated:plunger_launcher": false,
     "create:potato_cannon": false,
     "create:extendo_grip": false,

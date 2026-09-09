@@ -1,6 +1,3 @@
-/sable info @e
-/ct scripts
-/reload
 /defaultoptions saveAll
 /sablecleanup
 /sable paused
@@ -48,3 +45,6 @@
 /afkbot list
 /afkfarm
 /defaultoptions saveAll
+/afkfarm
+/sablecleanup
+/afkfarm
