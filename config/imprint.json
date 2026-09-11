@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "showOtherPlayers": true,
+  "showMobs": true,
+  "showWhileCrouching": true,
+  "showWhileCrawling": true,
+  "footprintSizes": "Medium",
+  "footprintLifetime": 4.0,
+  "footprintColor": 0,
+  "alpha": 40,
+  "rainbowMode": false,
+  "tickInterval": 7,
+  "speedThreshold": 1.2,
+  "footOffset": 0.2,
+  "enableDustParticles": true,
+  "enableWetness": true,
+  "maxRenderDistance": 48,
+  "removeDistantFootprints": true,
+  "simplifiedCollisionCheck": false,
+  "skipCollisionCheck": false,
+  "maxParticles": 150
+}
