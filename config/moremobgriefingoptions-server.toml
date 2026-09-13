@@ -1064,18 +1064,6 @@
 		#ranchutilities:flesh_golem mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"ranchutilities:flesh_golem" = "DEFAULT"
-		#immersive_paintings:painting mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"immersive_paintings:painting" = "DEFAULT"
-		#immersive_paintings:glow_painting mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"immersive_paintings:glow_painting" = "DEFAULT"
-		#immersive_paintings:graffiti mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"immersive_paintings:graffiti" = "DEFAULT"
-		#immersive_paintings:glow_graffiti mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"immersive_paintings:glow_graffiti" = "DEFAULT"
 		#ranchutilities:afk_player mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"ranchutilities:afk_player" = "DEFAULT"
