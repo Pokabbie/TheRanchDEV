@@ -1,35 +1,17 @@
 Chunksmith - Worldgen Fault Report
-Generated: Sun, 13 Sep 2026 19:08:42 +0100
+Generated: Tue, 15 Sep 2026 18:07:49 +0100
 Chunksmith generation task active: no
-Total faults this session: 71
+Total faults this session: 4
 
 These are vanilla worldgen errors Chunksmith caught and kept out of the server log.
 Each is attributed to the structure/datapack being generated - report it to that mod's author.
 ====================================================================
 
 mod/datapack: minecraft
-  total faults: 56
-  error types:
-    - block-attached entity: anchor more than 16 blocks from the entity x56
-  structures involved:
-    - minecraft:trial_chambers x56
-  sample broken chunks (up to 10): [-107,-69] [-63,12] [-69,-165] [-25,-151] [-111,-70] [0,53] [-106,-69] [-29,-182] [20,4] [-31,0]
-
-mod/datapack: create_ltab
-  total faults: 11
-  error types:
-    - block-attached entity: anchor more than 16 blocks from the entity x11
-  structures involved:
-    - create_ltab:birch_structures x8
-    - create_ltab:plains_small x2
-    - create_ltab:dungeon_plains x1
-  sample broken chunks (up to 10): [-264,-55] [-8,-166] [-283,-138]
-
-mod/datapack: notenoughtrials
   total faults: 4
   error types:
     - block-attached entity: anchor more than 16 blocks from the entity x4
   structures involved:
-    - notenoughtrials:vertical_trial_chambers x4
-  sample broken chunks (up to 10): [-220,-110]
+    - minecraft:trial_chambers x4
+  sample broken chunks (up to 10): [10,-15]
 
