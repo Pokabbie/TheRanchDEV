@@ -1,0 +1,11 @@
+[display]
+	#Controls Create's resource names shown below Package tooltips.
+	#Allowed Values: NEVER, HIDE_WHEN_PREVIEW, ALWAYS
+	resourceNameMode = "HIDE_WHEN_PREVIEW"
+	#Reserved for the custom mode UI. 1.21.1 uses Shulker Box Tooltip's native key handling.
+	#Allowed Values: BASE, COMPACT, FULL
+	previewMode = "BASE"
+	#Hides Shulker Box Tooltip key hints for Package and Toolbox previews.
+	hideSbtHints = false
+	#Hides Create's own Toolbox item description and key hints.
+	hideCreateHints = false
