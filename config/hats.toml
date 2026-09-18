@@ -43,11 +43,11 @@ hat_unlock_chat_announcement = false
 # of all values is the overall chance a mob receives any hat.
 # Values are fractions in 0.0-1.0 (0.10 = 10%). Accepts '10%' too.
 [server.spawn_chance]
-common    = 0.1
-uncommon  = 0.08
-rare      = 0.05
-epic      = 0.03
-legendary = 0.02
+common    = 0.025
+uncommon  = 0.02
+rare      = 0.0125
+epic      = 0.0075
+legendary = 0.005
 
 [client]
 
