@@ -1067,3 +1067,51 @@
 		#ranchutilities:afk_player mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"ranchutilities:afk_player" = "DEFAULT"
+		#icys-better-horses:horse_cart mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:horse_cart" = "DEFAULT"
+		#icys-better-horses:icelandic_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:icelandic_horse" = "DEFAULT"
+		#icys-better-horses:friesian_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:friesian_horse" = "DEFAULT"
+		#icys-better-horses:haflinger_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:haflinger_horse" = "DEFAULT"
+		#icys-better-horses:appaloosa_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:appaloosa_horse" = "DEFAULT"
+		#icys-better-horses:thoroughbred_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:thoroughbred_horse" = "DEFAULT"
+		#icys-better-horses:american_paint_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:american_paint_horse" = "DEFAULT"
+		#icys-better-horses:andalusian_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:andalusian_horse" = "DEFAULT"
+		#icys-better-horses:mustang_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:mustang_horse" = "DEFAULT"
+		#icys-better-horses:quarter_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:quarter_horse" = "DEFAULT"
+		#icys-better-horses:arabian_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:arabian_horse" = "DEFAULT"
+		#icys-better-horses:morgan_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:morgan_horse" = "DEFAULT"
+		#icys-better-horses:percheron_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:percheron_horse" = "DEFAULT"
+		#icys-better-horses:shire_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:shire_horse" = "DEFAULT"
+		#icys-better-horses:belgian_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:belgian_horse" = "DEFAULT"
+		#icys-better-horses:clydesdale_horse mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"icys-better-horses:clydesdale_horse" = "DEFAULT"
