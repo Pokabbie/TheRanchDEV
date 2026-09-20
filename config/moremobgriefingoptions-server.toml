@@ -761,15 +761,6 @@
 		#simulated:contraption_diagram mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"simulated:contraption_diagram" = "DEFAULT"
-		#railways:benchcart mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"railways:benchcart" = "DEFAULT"
-		#railways:jukeboxcart mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"railways:jukeboxcart" = "DEFAULT"
-		#railways:conductor mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"railways:conductor" = "DEFAULT"
 		#twilightforest:adherent mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"twilightforest:adherent" = "DEFAULT"
