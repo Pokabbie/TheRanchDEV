@@ -1,16 +1,4 @@
 /afkfarm
-/defaultoptions saveAll
-/afkfarm
-/afkbot list
-/afkfarm
-/defaultoptions saveAll
-/afkfarm
-/sablecleanup
-/afkfarm
-/gamerule allowNetherRoof true
-/time set night
-/defaultoptions saveAll
-/afkfarm
 /ct hand
 /season set mid_spring
 /csclient inject_dh
@@ -48,3 +36,15 @@
 /csclient status
 /cs start
 /cs radius 1024
+/cs progress
+/cs cancel
+/cs confirm
+/cs start minecraft:overworld
+/cs progress
+/csclient
+/csclient set reinject-on-join true
+/csclient inject_dh
+/cs corners
+/cs progress
+/tp 20000 100 20000
+/cs progress
