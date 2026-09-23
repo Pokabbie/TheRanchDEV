@@ -41,7 +41,7 @@ autoRestartTime = 12
 #Mods which will only be enabled in the HQ preset.
 presetModListHQ = ["DistantHorizons-", "coolrain-", "sable-cool-rain-", "iris-neoforge-", "iris-flywheel-compat-", "particlerain-", "wakes-", "3d-armor-", "skinlayers3d-", "modelfix-", "subtleeffects-", "aeronautics_windsound-", "grassiergrass-"]
 #Mods which will be forcabley disabled on Dedicated Server.
-presetServerDisabledModList = ["coolrain-", "particlerain-", "subtleeffects-", "wakes-", "DistantHorizons-"]
+presetServerDisabledModList = ["coolrain-", "particlerain-", "subtleeffects-", "wakes-"]
 #Maximum duration, in hours, for AFK BOTs to be active for
 # Default: 24
 # Range: > 0
