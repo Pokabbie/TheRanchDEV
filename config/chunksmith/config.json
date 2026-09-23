@@ -23,7 +23,7 @@
   "lodBackchannelPort": 0,
   "lodIndexBudgetMb": 2048,
   "worldEnterPregen": false,
-  "worldEnterPregenRadius": 4096,
+  "worldEnterPregenRadius": 1024,
   "lodBackchannelBindAddress": "",
   "lodBackchannelHost": "",
   "pregenSettle": true,
