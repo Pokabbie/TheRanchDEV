@@ -19,6 +19,7 @@ Distant_Horizons_server_data/*
 screenshots/*
 debug/*
 ESM/*
+chunksmith/*
 
 config/*.bak
 
