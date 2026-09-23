@@ -2,7 +2,7 @@
 	#Number of grass blades rendered on each grass block. Higher is denser but heavier.
 	# Default: 64
 	# Range: 1 ~ 64
-	bladesPerBlock = 32
+	bladesPerBlock = 24
 	#Fraction of blades removed from clump rims inward. 0 keeps all; 1 removes all.
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0
@@ -22,7 +22,7 @@
 	#How far (in blocks) grass renders around you. Cached per chunk, so distance is cheap.
 	# Default: 160
 	# Range: 16 ~ 160
-	renderRadius = 140
+	renderRadius = 100
 	#Blade look: TAPERED (smooth gradient) or SEGMENTED (vanilla-like banded blades).
 	#Allowed Values: TAPERED, SEGMENTED
 	grassStyle = "SEGMENTED"
