@@ -1,6 +1,3 @@
-/afkfarm
-/ct hand
-/season set mid_spring
 /csclient inject_dh
 /cs radius
 /cs radius 100
@@ -48,3 +45,6 @@
 /cs progress
 /tp 20000 100 20000
 /cs progress
+/defaultoptions saveKeys
+/sparkclient profiler start
+/sparkclient profiler open
