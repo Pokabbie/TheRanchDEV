@@ -434,18 +434,6 @@
 		#offroad:borehead_contraption_entity mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"offroad:borehead_contraption_entity" = "DEFAULT"
-		#mounts_of_mayhem:nautilus mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"mounts_of_mayhem:nautilus" = "DEFAULT"
-		#mounts_of_mayhem:zombie_nautilus mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"mounts_of_mayhem:zombie_nautilus" = "DEFAULT"
-		#mounts_of_mayhem:parched mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"mounts_of_mayhem:parched" = "DEFAULT"
-		#mounts_of_mayhem:projectile_parched mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"mounts_of_mayhem:projectile_parched" = "DEFAULT"
 		#hats:hat mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"hats:hat" = "DEFAULT"
@@ -1001,9 +989,6 @@
 		#farmersdelight:rotten_tomato mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"farmersdelight:rotten_tomato" = "DEFAULT"
-		#cushionbackport:cushion mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"cushionbackport:cushion" = "DEFAULT"
 		#create:contraption mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"create:contraption" = "DEFAULT"
@@ -1040,12 +1025,6 @@
 		#minecraft:happy_ghast mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"minecraft:happy_ghast" = "DEFAULT"
-		#minecraft:pale_oak_boat mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"minecraft:pale_oak_boat" = "DEFAULT"
-		#minecraft:pale_oak_chest_boat mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"minecraft:pale_oak_chest_boat" = "DEFAULT"
 		#minecraft:sulfur_cube mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"minecraft:sulfur_cube" = "DEFAULT"
@@ -1103,3 +1082,27 @@
 		#icys-better-horses:clydesdale_horse mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"icys-better-horses:clydesdale_horse" = "DEFAULT"
+		#minecraft:custom_boat mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:custom_boat" = "DEFAULT"
+		#minecraft:custom_chest_boat mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:custom_chest_boat" = "DEFAULT"
+		#minecraft:copper_golem mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:copper_golem" = "DEFAULT"
+		#minecraft:parched mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:parched" = "DEFAULT"
+		#minecraft:camel_husk mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:camel_husk" = "DEFAULT"
+		#minecraft:nautilus mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:nautilus" = "DEFAULT"
+		#minecraft:zombie_nautilus mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:zombie_nautilus" = "DEFAULT"
+		#minecraft:cushion mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"minecraft:cushion" = "DEFAULT"
