@@ -1,7 +1,3 @@
-/csclient inject_dh
-/cs radius
-/cs radius 100
-/cs radius 200
 /cs radius 2000
 /cs progress
 /cs lod status
@@ -46,5 +42,9 @@
 /tp 20000 100 20000
 /cs progress
 /defaultoptions saveKeys
+/sparkclient profiler start
+/sparkclient profiler open
+/spark profiler
+/spark profiler open
 /sparkclient profiler start
 /sparkclient profiler open

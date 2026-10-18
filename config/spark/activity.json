@@ -5,6 +5,19 @@
       "name": "Pokabbie",
       "uniqueId": "08450263-2ca4-43d0-b6a5-a15a1b0d7546"
     },
+    "time": 1792338066543,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/KwzB6LQ0Ju"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Pokabbie",
+      "uniqueId": "08450263-2ca4-43d0-b6a5-a15a1b0d7546"
+    },
     "time": 1792335155513,
     "type": "Profiler (live)",
     "data": {
