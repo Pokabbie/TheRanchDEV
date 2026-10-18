@@ -416,9 +416,6 @@
 		#corpse:corpse mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"corpse:corpse" = "DEFAULT"
-		#tf_dnv:twilight_trader mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"tf_dnv:twilight_trader" = "DEFAULT"
 		#skillcraft:target_dummy mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"skillcraft:target_dummy" = "DEFAULT"
