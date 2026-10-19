@@ -1106,3 +1106,156 @@
 		#minecraft:cushion mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"minecraft:cushion" = "DEFAULT"
+		#naturalist:alligator mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:alligator" = "DEFAULT"
+		#naturalist:ant mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:ant" = "DEFAULT"
+		#naturalist:anglerfish mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:anglerfish" = "DEFAULT"
+		#naturalist:ray mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:ray" = "DEFAULT"
+		#naturalist:blobfish mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:blobfish" = "DEFAULT"
+		#naturalist:piranha mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:piranha" = "DEFAULT"
+		#naturalist:bass mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:bass" = "DEFAULT"
+		#naturalist:bear mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:bear" = "DEFAULT"
+		#naturalist:black_bear mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:black_bear" = "DEFAULT"
+		#naturalist:bird mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:bird" = "DEFAULT"
+		#naturalist:boar mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:boar" = "DEFAULT"
+		#naturalist:butterfly mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:butterfly" = "DEFAULT"
+		#naturalist:capybara mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:capybara" = "DEFAULT"
+		#naturalist:caterpillar mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:caterpillar" = "DEFAULT"
+		#naturalist:catfish mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:catfish" = "DEFAULT"
+		#naturalist:clam mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:clam" = "DEFAULT"
+		#naturalist:crab mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:crab" = "DEFAULT"
+		#naturalist:deer mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:deer" = "DEFAULT"
+		#naturalist:dragonfly mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:dragonfly" = "DEFAULT"
+		#naturalist:duck mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:duck" = "DEFAULT"
+		#naturalist:duck_egg mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:duck_egg" = "DEFAULT"
+		#naturalist:dirt_trail mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:dirt_trail" = "DEFAULT"
+		#naturalist:carried_food mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:carried_food" = "DEFAULT"
+		#naturalist:elephant mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:elephant" = "DEFAULT"
+		#naturalist:firefly mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:firefly" = "DEFAULT"
+		#naturalist:giant_isopod mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:giant_isopod" = "DEFAULT"
+		#naturalist:giraffe mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:giraffe" = "DEFAULT"
+		#naturalist:great_white_shark mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:great_white_shark" = "DEFAULT"
+		#naturalist:hedgehog mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:hedgehog" = "DEFAULT"
+		#naturalist:hippo mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:hippo" = "DEFAULT"
+		#naturalist:jellyfish mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:jellyfish" = "DEFAULT"
+		#naturalist:komodo_dragon mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:komodo_dragon" = "DEFAULT"
+		#naturalist:lion mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:lion" = "DEFAULT"
+		#naturalist:lizard mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:lizard" = "DEFAULT"
+		#naturalist:lizard_tail mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:lizard_tail" = "DEFAULT"
+		#naturalist:mammoth mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:mammoth" = "DEFAULT"
+		#naturalist:mole mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:mole" = "DEFAULT"
+		#naturalist:ostrich mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:ostrich" = "DEFAULT"
+		#naturalist:desert_scorpion mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:desert_scorpion" = "DEFAULT"
+		#naturalist:jungle_scorpion mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:jungle_scorpion" = "DEFAULT"
+		#naturalist:rat mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:rat" = "DEFAULT"
+		#naturalist:rhino mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:rhino" = "DEFAULT"
+		#naturalist:snail mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:snail" = "DEFAULT"
+		#naturalist:snake mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:snake" = "DEFAULT"
+		#naturalist:starfish mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:starfish" = "DEFAULT"
+		#naturalist:tiger mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:tiger" = "DEFAULT"
+		#naturalist:tortoise mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:tortoise" = "DEFAULT"
+		#naturalist:turkey mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:turkey" = "DEFAULT"
+		#naturalist:vulture mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:vulture" = "DEFAULT"
+		#naturalist:zebra mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:zebra" = "DEFAULT"
+		#naturalist:whale mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"naturalist:whale" = "DEFAULT"
