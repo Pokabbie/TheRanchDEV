@@ -1,4 +1,3 @@
-/cs progress
 /cs lod status
 /cs radius 4096
 /cs radius 4096 4096
@@ -48,3 +47,4 @@
 /sparkclient profiler start
 /sparkclient profiler open
 /time set 0
+/ct hand
