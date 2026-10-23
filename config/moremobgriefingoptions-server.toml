@@ -434,9 +434,6 @@
 		#offroad:borehead_contraption_entity mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"offroad:borehead_contraption_entity" = "DEFAULT"
-		#hats:hat mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"hats:hat" = "DEFAULT"
 		#ars_nouveau:spell_proj mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"ars_nouveau:spell_proj" = "DEFAULT"
@@ -1259,3 +1256,6 @@
 		#naturalist:whale mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"naturalist:whale" = "DEFAULT"
+		#simplehats:hatdisplay mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"simplehats:hatdisplay" = "DEFAULT"
