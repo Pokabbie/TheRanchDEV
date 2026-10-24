@@ -1,0 +1,8 @@
+#Time flying forward until boost.
+seconds_until_boost = 4
+#Speed boost from forward movement.
+forward_multiplier = 2.0
+#Acceleration from Speed potion.
+potion_multiplier = 2.5
+#Acceleration from Speed II potion.
+potion_multiplier_two = 3.5

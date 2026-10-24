@@ -89,6 +89,12 @@
     "z": 151,
     "dimensionId": "minecraft:overworld"
   },
+  "minecraft:meadow": {
+    "firstSeenTimestamp": 1792860455219,
+    "x": -26,
+    "z": -328,
+    "dimensionId": "minecraft:overworld"
+  },
   "minecraft:plains": {
     "firstSeenTimestamp": 1792705375986,
     "x": 264,

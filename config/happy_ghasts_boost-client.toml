@@ -1,0 +1,4 @@
+#Whether to display the boost bar.
+display_boost_bar = true
+#Whether to display the current and top speed while riding a Happy Ghast.
+debug = false
