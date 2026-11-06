@@ -1,6 +1,7 @@
 {
   "renderArmorArmsFP": true,
   "interactiveStuffCompat": false,
+  "spatialGuiCompat": true,
   "bettercombatCompat": false,
   "swordBlockingCompat": false,
   "animationSpeed": 5.5,
@@ -19,7 +20,8 @@
   "enableClimbAnimation": true,
   "enableSwimAnimation": true,
   "enableElytraFlightAnimation": true,
-  "disableNewKeyframeMoves": true,
+  "enableCameraAnimations": true,
+  "disableNewKeyframeMoves": false,
   "enableCustomWalk": true,
   "enableSprintArmSwing": true,
   "enableFallArmAnimation": true,
