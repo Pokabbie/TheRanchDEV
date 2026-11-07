@@ -1,16 +1,3 @@
-/cs lod status
-/cs radius 4096
-/cs radius 4096 4096
-/cs radius 4096
-/weather clear
-/tp 100000 100 100000
-/cs start
-/cs continue
-/cs debug
-/cs help
-/cs cancel
-/cs start
-/cs help 2
 /cs help 3
 /cs progress
 /cs cancel
@@ -48,3 +35,16 @@
 /sparkclient profiler open
 /time set 0
 /ct hand
+/season set late_autumn
+/season set late_winter
+/season set late_summer
+/season set early_winter
+/season set mid_winter
+/season set late_winter
+/season set early_spring
+/season set mid_spring
+/season set mid_winter
+/season set mid_spring
+/season set mid_winter
+/season set mid_spring
+/time set 0

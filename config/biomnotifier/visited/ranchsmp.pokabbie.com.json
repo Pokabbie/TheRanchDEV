@@ -1,0 +1,110 @@
+{
+  "minecraft:flower_forest": {
+    "firstSeenTimestamp": 1794069018642,
+    "x": 937,
+    "z": 72,
+    "dimensionId": "minecraft:overworld"
+  },
+  "biomesoplenty:prairie": {
+    "firstSeenTimestamp": 1794068998644,
+    "x": 854,
+    "z": 241,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:snowy_slopes": {
+    "firstSeenTimestamp": 1794068997644,
+    "x": 835,
+    "z": 251,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:forest": {
+    "firstSeenTimestamp": 1794068967662,
+    "x": 347,
+    "z": 409,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:river": {
+    "firstSeenTimestamp": 1794069048642,
+    "x": 977,
+    "z": -25,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:deep_ocean": {
+    "firstSeenTimestamp": 1794088816296,
+    "x": 362,
+    "z": -126,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:stony_shore": {
+    "firstSeenTimestamp": 1794069104637,
+    "x": 712,
+    "z": -162,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:frozen_peaks": {
+    "firstSeenTimestamp": 1794068963640,
+    "x": 281,
+    "z": 366,
+    "dimensionId": "minecraft:overworld"
+  },
+  "biomesoplenty:redwood_forest": {
+    "firstSeenTimestamp": 1794069116640,
+    "x": 547,
+    "z": -90,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:old_growth_birch_forest": {
+    "firstSeenTimestamp": 1794068961637,
+    "x": 285,
+    "z": 324,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:ocean": {
+    "firstSeenTimestamp": 1794071752147,
+    "x": 147,
+    "z": 277,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:grove": {
+    "firstSeenTimestamp": 1794068958641,
+    "x": 284,
+    "z": 263,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:sunflower_plains": {
+    "firstSeenTimestamp": 1794069050639,
+    "x": 984,
+    "z": -40,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:meadow": {
+    "firstSeenTimestamp": 1794071578147,
+    "x": 459,
+    "z": 228,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:birch_forest": {
+    "firstSeenTimestamp": 1794068959651,
+    "x": 284,
+    "z": 284,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:plains": {
+    "firstSeenTimestamp": 1794068999641,
+    "x": 865,
+    "z": 224,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:jagged_peaks": {
+    "firstSeenTimestamp": 1794068957645,
+    "x": 280,
+    "z": 243,
+    "dimensionId": "minecraft:overworld"
+  },
+  "biomesoplenty:jade_cliffs": {
+    "firstSeenTimestamp": 1794068990642,
+    "x": 739,
+    "z": 273,
+    "dimensionId": "minecraft:overworld"
+  }
+}
