@@ -1,4 +1,3 @@
-/csclient reset
 /csclient inject_dh
 /cs progress
 /cs pattern
@@ -48,3 +47,4 @@
 /locate structure #upfall:on_pearl_aerie_maps
 /locate structure #upfall:on_shifting_vault_maps
 /locate structure #upfall:on_tilted_reliquary_maps
+/gamerule ssrdForceloadLimit

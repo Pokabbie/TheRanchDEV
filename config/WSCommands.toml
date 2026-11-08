@@ -1,0 +1,10 @@
+[1]
+	#If true, commands will run each time the world is joined instead of just once
+	Repeat = false
+	#If true, commands will run for each player instead of just for the first join
+	DedicatedMode = false
+	#If true, commands will only run if the game is fully restarted
+	OnFullRestart = false
+	#list of all the commands to run, in order
+	Commands = ["gamerule playersSleepingPercentage 1", "gamerule doInsomnia false", "gamerule spawnRadius 0", "gamerule allowNetherRoof true"]
+
