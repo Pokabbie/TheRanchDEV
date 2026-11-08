@@ -1,0 +1,44 @@
+{
+  "minecraft:deep_cold_ocean": {
+    "firstSeenTimestamp": 1794163045009,
+    "x": -1183,
+    "z": 989,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:cold_ocean": {
+    "firstSeenTimestamp": 1794163040009,
+    "x": -969,
+    "z": 789,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:frozen_ocean": {
+    "firstSeenTimestamp": 1794163063008,
+    "x": -1312,
+    "z": 1456,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:forest": {
+    "firstSeenTimestamp": 1794163035017,
+    "x": -798,
+    "z": 628,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:stony_shore": {
+    "firstSeenTimestamp": 1794163039007,
+    "x": -930,
+    "z": 753,
+    "dimensionId": "minecraft:overworld"
+  },
+  "upfall:rustworks": {
+    "firstSeenTimestamp": 1794163446662,
+    "x": -1070,
+    "z": 1506,
+    "dimensionId": "upfall:the_upfall"
+  },
+  "biomesoplenty:coniferous_forest": {
+    "firstSeenTimestamp": 1794163038007,
+    "x": -893,
+    "z": 718,
+    "dimensionId": "minecraft:overworld"
+  }
+}

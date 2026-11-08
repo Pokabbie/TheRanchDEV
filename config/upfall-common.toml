@@ -1,0 +1,156 @@
+#Shared observation rule used by every quantum object
+[observation]
+	#Max distance (blocks) at which a player can observe a quantum object
+	# Default: 64
+	# Range: 4 ~ 256
+	range = 64
+	#Minimum dot product between the look direction and the direction to the object (1 = dead center)
+	# Default: 0.6
+	# Range: -1.0 ~ 1.0
+	fovDot = 0.6
+	#Minimum light level at the object for it to be seen without a handheld light
+	# Default: 4
+	# Range: 0 ~ 15
+	minLight = 4
+	#Max distance at which a light held by the observer lights the object
+	# Default: 64
+	# Range: 0 ~ 256
+	handheldLightRange = 64
+	#Ticks between two observation checks
+	# Default: 4
+	# Range: 1 ~ 40
+	interval = 4
+
+[veil_gas]
+	#Damage dealt by Veil Gas to unprotected entities (2 = one heart)
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	damage = 2.0
+	#Ticks between two Veil Gas damage ticks
+	# Default: 20
+	# Range: 1 ~ 200
+	damageInterval = 20
+
+#Gas caves carved inside the islands (world generation)
+[gas_caves]
+	enabled = true
+	#Chance for a chunk to start a cave network
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	chunkChance = 0.05
+	#Terrain density required around a tunnel; roughly the minimum number of blocks between a tunnel and the island surface
+	# Default: 7.0
+	# Range: 1.0 ~ 40.0
+	densityMargin = 7.0
+	# Default: 72
+	# Range: -64 ~ 320
+	minY = 72
+	#Max tunnel blocks per network
+	# Default: 260
+	# Range: 20 ~ 2000
+	maxLength = 260
+	# Default: 0.55
+	# Range: 0.0 ~ 1.0
+	branchChance = 0.55
+	#Chance for a network to open on the flank of its island
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	entranceChance = 0.3
+	#Chance for a tunnel segment to be a dug section with Ironbark supports
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	dugChance = 0.3
+	# Default: 0.7
+	# Range: 0.0 ~ 1.0
+	deadEndFeatureChance = 0.7
+	#Chance per tunnel block to grow a Flicker Shard Cluster on the wall
+	# Default: 0.025
+	# Range: 0.0 ~ 1.0
+	clusterChance = 0.025
+
+[flicker_shard_cluster]
+	#Chance per observation check for an unobserved cluster to jump elsewhere
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	jumpChance = 0.15
+	# Default: 4
+	# Range: 1 ~ 16
+	jumpRadius = 4
+
+[shifting_vault]
+	#Structure set spacing in chunks (restart required)
+	# Default: 56
+	# Range: 8 ~ 4096
+	spacing = 56
+	#Structure set separation in chunks, must be lower than spacing (restart required)
+	# Default: 24
+	# Range: 1 ~ 4095
+	separation = 24
+	#Solid terrain margin required around the vault on every side
+	# Default: 7
+	# Range: 2 ~ 16
+	margin = 7
+	# Default: 60
+	# Range: 10 ~ 200
+	tunnelMinLength = 60
+	# Default: 120
+	# Range: 10 ~ 200
+	tunnelMaxLength = 120
+	#Ticks a frosted pane stays opaque
+	# Default: 100
+	# Range: 1 ~ 2400
+	frostTicks = 100
+	# Default: 140
+	# Range: 1 ~ 2400
+	lightsOutTicks = 140
+	#Average ticks between two lure sounds behind a player
+	# Default: 160
+	# Range: 20 ~ 24000
+	whisperInterval = 160
+	# Default: 200
+	# Range: 20 ~ 24000
+	crumblingFloorRegrowTicks = 200
+
+[quantum_pedestal]
+	#Distance between the Quantum Pedestal and its ring of Pedestals
+	# Default: 3
+	# Range: 2 ~ 8
+	ringDistance = 3
+	#Ticks the player must keep observing the Quantum Pedestal
+	# Default: 100
+	# Range: 1 ~ 2400
+	ritualTicks = 100
+	# Default: 2
+	# Range: 1 ~ 9
+	maxUpgradesPerItem = 2
+
+[upgrades]
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	uncertaintyDodgeChance = 0.15
+	# Default: 200
+	# Range: 1 ~ 12000
+	entanglementTicks = 200
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	entanglementShare = 0.5
+	#Bounce restitution k: new vertical speed = max(minVelocity, |impact| * k)
+	# Default: 0.85
+	# Range: 0.0 ~ 1.5
+	solidifierFactor = 0.85
+	#Minimum bounce speed (0.62 is about a 2.5 block bounce)
+	# Default: 0.62
+	# Range: 0.0 ~ 3.0
+	solidifierMinVelocity = 0.62
+	#Movement speed added on moss (base player speed is 0.1)
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	mosswalkerSpeed = 0.08
+	#Fraction of max health restored by Rewind
+	# Default: 0.3
+	# Range: 0.05 ~ 1.0
+	rewindHealth = 0.3
+	#Cooldown of Rewind in ticks (24000 = one game day)
+	# Default: 24000
+	# Range: 0 ~ 1000000
+	rewindCooldown = 24000

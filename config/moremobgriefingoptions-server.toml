@@ -1259,3 +1259,36 @@
 		#simplehats:hatdisplay mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"simplehats:hatdisplay" = "DEFAULT"
+		#upfall:skyray mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:skyray" = "DEFAULT"
+		#upfall:duskwing mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:duskwing" = "DEFAULT"
+		#upfall:cragmaw mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:cragmaw" = "DEFAULT"
+		#upfall:mistjelly mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:mistjelly" = "DEFAULT"
+		#upfall:skygrazer mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:skygrazer" = "DEFAULT"
+		#upfall:drift_platform mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:drift_platform" = "DEFAULT"
+		#upfall:loftkin mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:loftkin" = "DEFAULT"
+		#upfall:zipline_pulley mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:zipline_pulley" = "DEFAULT"
+		#upfall:fold_warden mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:fold_warden" = "DEFAULT"
+		#upfall:fold_satellite mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:fold_satellite" = "DEFAULT"
+		#upfall:fold_fragment mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"upfall:fold_fragment" = "DEFAULT"
