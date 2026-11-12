@@ -73,12 +73,12 @@
 		#Offset the overlay from goggle- and hover- information by this many pixels on the respective axis; Use /create overlay
 		# Default: 20
 		# Range: > -2147483648
-		overlayOffsetX = 20
+		overlayOffsetX = -58
 		#.
 		#Offset the overlay from goggle- and hover- information by this many pixels on the respective axis; Use /create overlay
 		# Default: 0
 		# Range: > -2147483648
-		overlayOffsetY = 0
+		overlayOffsetY = -28
 		#.
 		#Enable this to use your custom colors for the Goggle- and Hover- Overlay
 		customColorsOverlay = false

@@ -1,12 +1,3 @@
-/csclient inject_dh
-/cs progress
-/cs pattern
-/cs lod status
-/csclient status
-/cs progress
-/csclient status
-/cs start
-/cs radius 1024
 /cs progress
 /cs cancel
 /cs confirm
@@ -48,3 +39,12 @@
 /locate structure #upfall:on_shifting_vault_maps
 /locate structure #upfall:on_tilted_reliquary_maps
 /gamerule ssrdForceloadLimit
+/createlazytick list
+/create overlay
+/create
+/hostileskies spawnraid
+/hostileskies spawnraid hostile_skies:lookout_t1
+/hostileskies spawnraid hostile_skies:sky_reaver_t3
+/sablecleanup
+/hostileskies spawnraid hostile_skies:hirdskip_t2
+/hostileskies spawnraid hostile_skies:graf_t2

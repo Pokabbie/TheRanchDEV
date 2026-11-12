@@ -1,0 +1,26 @@
+{
+  "biomesoplenty:prairie": {
+    "firstSeenTimestamp": 1794500050006,
+    "x": -572,
+    "z": 422,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:beach": {
+    "firstSeenTimestamp": 1794354943879,
+    "x": -314,
+    "z": 355,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:ocean": {
+    "firstSeenTimestamp": 1794354960830,
+    "x": -338,
+    "z": 293,
+    "dimensionId": "minecraft:overworld"
+  },
+  "minecraft:plains": {
+    "firstSeenTimestamp": 1794354941839,
+    "x": -314,
+    "z": 355,
+    "dimensionId": "minecraft:overworld"
+  }
+}

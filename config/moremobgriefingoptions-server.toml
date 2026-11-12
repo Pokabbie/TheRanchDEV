@@ -1019,36 +1019,255 @@
 		#simplehats:hatdisplay mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"simplehats:hatdisplay" = "DEFAULT"
-		#upfall:skyray mobGriefing
+		#twilightforest:adherent mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:skyray" = "DEFAULT"
-		#upfall:duskwing mobGriefing
+		"twilightforest:adherent" = "DEFAULT"
+		#twilightforest:alpha_yeti mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:duskwing" = "DEFAULT"
-		#upfall:cragmaw mobGriefing
+		"twilightforest:alpha_yeti" = "DEFAULT"
+		#twilightforest:armored_giant mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:cragmaw" = "DEFAULT"
-		#upfall:mistjelly mobGriefing
+		"twilightforest:armored_giant" = "DEFAULT"
+		#twilightforest:bighorn_sheep mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:mistjelly" = "DEFAULT"
-		#upfall:skygrazer mobGriefing
+		"twilightforest:bighorn_sheep" = "DEFAULT"
+		#twilightforest:blockchain_goblin mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:skygrazer" = "DEFAULT"
-		#upfall:drift_platform mobGriefing
+		"twilightforest:blockchain_goblin" = "DEFAULT"
+		#twilightforest:boar mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:drift_platform" = "DEFAULT"
-		#upfall:loftkin mobGriefing
+		"twilightforest:boar" = "DEFAULT"
+		#twilightforest:carminite_broodling mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:loftkin" = "DEFAULT"
-		#upfall:zipline_pulley mobGriefing
+		"twilightforest:carminite_broodling" = "DEFAULT"
+		#twilightforest:carminite_ghastguard mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:zipline_pulley" = "DEFAULT"
-		#upfall:fold_warden mobGriefing
+		"twilightforest:carminite_ghastguard" = "DEFAULT"
+		#twilightforest:carminite_ghastling mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:fold_warden" = "DEFAULT"
-		#upfall:fold_satellite mobGriefing
+		"twilightforest:carminite_ghastling" = "DEFAULT"
+		#twilightforest:carminite_golem mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:fold_satellite" = "DEFAULT"
-		#upfall:fold_fragment mobGriefing
+		"twilightforest:carminite_golem" = "DEFAULT"
+		#twilightforest:chain_block mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
-		"upfall:fold_fragment" = "DEFAULT"
+		"twilightforest:chain_block" = "DEFAULT"
+		#twilightforest:charm_effect mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:charm_effect" = "DEFAULT"
+		#twilightforest:cube_of_annihilation mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:cube_of_annihilation" = "DEFAULT"
+		#twilightforest:death_tome mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:death_tome" = "DEFAULT"
+		#twilightforest:deer mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:deer" = "DEFAULT"
+		#twilightforest:dwarf_rabbit mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:dwarf_rabbit" = "DEFAULT"
+		#twilightforest:falling_ice mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:falling_ice" = "DEFAULT"
+		#twilightforest:fire_beetle mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:fire_beetle" = "DEFAULT"
+		#twilightforest:giant_miner mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:giant_miner" = "DEFAULT"
+		#twilightforest:harbinger_cube mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:harbinger_cube" = "DEFAULT"
+		#twilightforest:hedge_spider mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:hedge_spider" = "DEFAULT"
+		#twilightforest:helmet_crab mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:helmet_crab" = "DEFAULT"
+		#twilightforest:hostile_wolf mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:hostile_wolf" = "DEFAULT"
+		#twilightforest:hydra mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:hydra" = "DEFAULT"
+		#twilightforest:hydra_mortar mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:hydra_mortar" = "DEFAULT"
+		#twilightforest:ice_arrow mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:ice_arrow" = "DEFAULT"
+		#twilightforest:thrown_ice mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:thrown_ice" = "DEFAULT"
+		#twilightforest:ice_crystal mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:ice_crystal" = "DEFAULT"
+		#twilightforest:ice_snowball mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:ice_snowball" = "DEFAULT"
+		#twilightforest:king_spider mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:king_spider" = "DEFAULT"
+		#twilightforest:knight_phantom mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:knight_phantom" = "DEFAULT"
+		#twilightforest:kobold mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:kobold" = "DEFAULT"
+		#twilightforest:lich mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:lich" = "DEFAULT"
+		#twilightforest:lich_bolt mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:lich_bolt" = "DEFAULT"
+		#twilightforest:lich_bomb mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:lich_bomb" = "DEFAULT"
+		#twilightforest:lich_minion mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:lich_minion" = "DEFAULT"
+		#twilightforest:lower_goblin_knight mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:lower_goblin_knight" = "DEFAULT"
+		#twilightforest:loyal_zombie mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:loyal_zombie" = "DEFAULT"
+		#twilightforest:maze_slime mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:maze_slime" = "DEFAULT"
+		#twilightforest:minoshroom mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:minoshroom" = "DEFAULT"
+		#twilightforest:minotaur mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:minotaur" = "DEFAULT"
+		#twilightforest:mist_wolf mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:mist_wolf" = "DEFAULT"
+		#twilightforest:moonworm_shot mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:moonworm_shot" = "DEFAULT"
+		#twilightforest:mosquito_swarm mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:mosquito_swarm" = "DEFAULT"
+		#twilightforest:naga mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:naga" = "DEFAULT"
+		#twilightforest:nature_bolt mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:nature_bolt" = "DEFAULT"
+		#twilightforest:magic_painting mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:magic_painting" = "DEFAULT"
+		#twilightforest:penguin mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:penguin" = "DEFAULT"
+		#twilightforest:pinch_beetle mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:pinch_beetle" = "DEFAULT"
+		#twilightforest:plateau_boss mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:plateau_boss" = "DEFAULT"
+		#twilightforest:protection_box mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:protection_box" = "DEFAULT"
+		#twilightforest:quest_ram mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:quest_ram" = "DEFAULT"
+		#twilightforest:raven mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:raven" = "DEFAULT"
+		#twilightforest:redcap mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:redcap" = "DEFAULT"
+		#twilightforest:redcap_sapper mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:redcap_sapper" = "DEFAULT"
+		#twilightforest:rising_zombie mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:rising_zombie" = "DEFAULT"
+		#twilightforest:roving_cube mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:roving_cube" = "DEFAULT"
+		#twilightforest:seeker_arrow mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:seeker_arrow" = "DEFAULT"
+		#twilightforest:skeleton_druid mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:skeleton_druid" = "DEFAULT"
+		#twilightforest:slider mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:slider" = "DEFAULT"
+		#twilightforest:slime_beetle mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:slime_beetle" = "DEFAULT"
+		#twilightforest:slime_blob mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:slime_blob" = "DEFAULT"
+		#twilightforest:snow_guardian mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:snow_guardian" = "DEFAULT"
+		#twilightforest:snow_queen mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:snow_queen" = "DEFAULT"
+		#twilightforest:squirrel mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:squirrel" = "DEFAULT"
+		#twilightforest:stable_ice_core mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:stable_ice_core" = "DEFAULT"
+		#twilightforest:swarm_spider mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:swarm_spider" = "DEFAULT"
+		#twilightforest:thrown_block mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:thrown_block" = "DEFAULT"
+		#twilightforest:thrown_wep mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:thrown_wep" = "DEFAULT"
+		#twilightforest:tiny_bird mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:tiny_bird" = "DEFAULT"
+		#twilightforest:tome_bolt mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:tome_bolt" = "DEFAULT"
+		#twilightforest:towerwood_borer mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:towerwood_borer" = "DEFAULT"
+		#twilightforest:troll mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:troll" = "DEFAULT"
+		#twilightforest:wand_bolt mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:wand_bolt" = "DEFAULT"
+		#twilightforest:unstable_ice_core mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:unstable_ice_core" = "DEFAULT"
+		#twilightforest:upper_goblin_knight mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:upper_goblin_knight" = "DEFAULT"
+		#twilightforest:ur_ghast mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:ur_ghast" = "DEFAULT"
+		#twilightforest:winter_wolf mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:winter_wolf" = "DEFAULT"
+		#twilightforest:wraith mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:wraith" = "DEFAULT"
+		#twilightforest:yeti mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"twilightforest:yeti" = "DEFAULT"
+		#xercapaint:canvas mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"xercapaint:canvas" = "DEFAULT"
+		#xercapaint:easel mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"xercapaint:easel" = "DEFAULT"
+		#ribbits:ribbit mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"ribbits:ribbit" = "DEFAULT"
+		#hostile_skies:helm_chains mobGriefing
+		#Allowed Values: DEFAULT, TRUE, FALSE
+		"hostile_skies:helm_chains" = "DEFAULT"
