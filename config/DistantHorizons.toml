@@ -685,7 +685,7 @@ _version = 5
 		# 
 		# DISABLED 
 		# No distant terrain will be generated.
-		generatorPlan = "SURFACE_THEN_CHUNKS"
+		generatorPlan = "DISABLED"
 		#
 		# How detailed should LODs be generated outside the vanilla render distance? 
 		# 

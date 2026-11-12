@@ -1268,6 +1268,3 @@
 		#ribbits:ribbit mobGriefing
 		#Allowed Values: DEFAULT, TRUE, FALSE
 		"ribbits:ribbit" = "DEFAULT"
-		#hostile_skies:helm_chains mobGriefing
-		#Allowed Values: DEFAULT, TRUE, FALSE
-		"hostile_skies:helm_chains" = "DEFAULT"
